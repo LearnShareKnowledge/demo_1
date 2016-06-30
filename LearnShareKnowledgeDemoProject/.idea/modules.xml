@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LearnShareKnowledgeDemoProject.iml" filepath="$PROJECT_DIR$/LearnShareKnowledgeDemoProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deadlock/deadlock.iml" filepath="$PROJECT_DIR$/deadlock/deadlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deadlock/deadlock.iml" filepath="$PROJECT_DIR$/deadlock/deadlock.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="ButtonOrder" severity="ignore" />
+    <issue id="DefaultLocale" severity="ignore" />
+    <issue id="EI_EXPOSE_REP2" severity="ignore" />
+    <issue id="IconDensities" severity="ignore" />
+    <issue id="IconDipSize" severity="ignore" />
+    <issue id="Overdraw" severity="ignore" />
+    <issue id="SmallSp" severity="ignore" />
+    <issue id="ViewConstructor" severity="ignore" />
+    <issue id ="TypographyOther" severity="ignore" /> 
+    <issue id ="TypographyFractions" severity="ignore" /> 
+    <issue id ="TypographyDashes" severity="ignore" /> 
+    <issue id ="UnusedResources" severity="ignore" />
+    <issue id ="IconDuplicates" severity="ignore" />
+    <issue id ="SpUsage" severity="ignore" /> 
+    <issue id ="InflateParams" severity="ignore" /> 
+    <issue id ="CommitPrefEdits" severity="ignore" /> 
+    <issue id ="RtlHardcoded" severity="ignore" /> 
+    <issue id ="RtlSymmetry" severity="ignore" /> 
+    <issue id="RtlCompat" severity="ignore" />
+    <issue id="NewApi" severity="ignore" />
+</lint>
